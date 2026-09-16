@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # BerryWorks Software
 
 **EDI technology for developers and integration projects**
