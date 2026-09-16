@@ -157,6 +157,18 @@ Engagements can range from helping design an EDI architecture to implementing a 
 
 ---
 
+## Additional Open Source
+
+### JQuantify — Lightweight Java Application Metrics
+
+[JQuantify on GitHub](https://github.com/BerryWorksSoftware/jquantify)
+
+JQuantify is an open-source library from BerryWorks Software for measuring how often application events occur, how long operations take, and how many operations overlap. Developers add simple counters or start/stop calls to collect statistics within their Java applications.
+
+The project includes examples and utilities for reporting metrics in CSV and HTML formats.
+
+---
+
 ## BerryWave Software
 
 The EDIReader Framework also provides the underlying EDI processing technology for products developed by **BerryWave Software**.
@@ -204,6 +216,9 @@ The same underlying technology can therefore serve very different requirements�
 
 **EDIReader Framework Community Edition — EDI to JSON**  
 [BerryWorksSoftware/edi-json](https://github.com/BerryWorksSoftware/edi-json)
+
+**JQuantify — Java Application Metrics**  
+[BerryWorksSoftware/jquantify](https://github.com/BerryWorksSoftware/jquantify)
 
 **BerryWave API for EDI**  
 [berrywave-edi.com](https://www.berrywave-edi.com/)
